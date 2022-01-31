@@ -25,6 +25,7 @@ let LimpiarFormulario = () => {
 }
 
 let btnLimpiar = document.getElementById("btnLimpiar");
+//let formulario = document.getElementsByTagName("form")[0];
 let formulario = document.getElementsByTagName("form")[0];
 
 let txtRut = document.getElementById("txtRUT");
